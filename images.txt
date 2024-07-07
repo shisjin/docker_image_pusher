@@ -1,3 +1,6 @@
 gitlab/gitlab-ce
 registry
 jenkins:2.60.3
+nginx
+ubuntu
+centos
