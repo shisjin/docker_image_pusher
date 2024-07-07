@@ -4,3 +4,4 @@ jenkins:2.60.3
 nginx
 ubuntu
 centos
+jenkins/jenkins:2.346.1-lts
