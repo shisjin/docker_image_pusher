@@ -6,4 +6,4 @@ ubuntu
 centos
 jenkins/jenkins:2.346.1-lts
 jenkins/jenkins:2.332.1-lts-centos7
-java:8
+openjdk:8
