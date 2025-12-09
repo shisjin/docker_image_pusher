@@ -8,3 +8,5 @@ jenkins/jenkins:2.346.1-lts
 jenkins/jenkins:2.332.1-lts-centos7
 openjdk:8
 openjdk:8-jdk-alpine
+8023/pikachu-expect:latest
+vulnerables/web-dvwa:latest
