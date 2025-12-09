@@ -10,3 +10,4 @@ openjdk:8
 openjdk:8-jdk-alpine
 8023/pikachu-expect:latest
 vulnerables/web-dvwa:latest
+mysql:8.0.41
