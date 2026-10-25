@@ -1,3 +1,7 @@
 8023/pikachu-expect:latest
 vulnerables/web-dvwa:latest
 mysql:8.0.41
+elasticsearch:7.17.0
+kibana:7.17.0
+elastic/filebeat:7.17.0
+busybox:1.36
