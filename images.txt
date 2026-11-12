@@ -5,4 +5,4 @@ elasticsearch:7.17.0
 kibana:7.17.0
 elastic/filebeat:7.17.0
 busybox:1.36
-jumpserver/ansible-executor
+jumpserver/ansible-executor:latest
